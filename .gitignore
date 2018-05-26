@@ -15,6 +15,14 @@ sitemap.xml
 sitemap.xml.gz
 *.log
 
+# InteliJ #
+###########
+.idea
+
+# Action Texter #
+#################
+wp-content/plugins/action_texter/.git
+
 # @TODO writable paths
 wp-content/cache/
 wp-content/backups/
